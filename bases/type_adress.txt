@@ -1,0 +1,7 @@
+Rua
+Avenida
+Travessa
+Beco
+Alameda
+Esplanada
+Estrada

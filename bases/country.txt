@@ -1,0 +1,230 @@
+Andorra
+Emirados Arabes Unidos
+Afeganistao
+Antigua e Barbuda
+Anguilla
+Albania
+Armenia
+Angola
+Antartica
+Argentina
+Samoa Americana
+Austria
+Australia
+Aruba
+Azerbaijao
+Bosnia e Herzegovina
+Barbados
+Bangladesh
+Belgica
+Burkina Faso
+Bulgaria
+Barem
+Burundi
+Benin
+Sao Bartolomeu
+Bermuda
+Brunei
+Bolivia
+Brasil
+Bahamas
+Butao
+Ilha Bouvet
+Botswana
+Belarus
+Belize
+Canada
+Ilhas Cocos 
+Congo
+Suica
+Costa do Marfim
+Ilhas Cook
+Chile
+Camaroes
+China
+Colombia
+Costa Rica
+Cuba
+Cabo Verde
+Curacao
+Ilha Christmas
+Chipre
+Republica Tcheca
+Alemanha
+Djibuti
+Dinamarca
+Dominica
+Republica Dominicana
+Argelia
+Equador
+Estonia
+Egito
+Saara Ocidental
+Eritreia
+Espanha
+Etiopia
+Finlandia
+Fiji
+Ilhas Falkland
+Micronesia
+Ilhas Feroe
+Franca
+Franca Metropolitana
+Gabao
+Reino Unido
+Grenada
+Georgia
+Guiana Francesa
+Guernsey
+Gana
+Gibraltar
+Greenland
+Gambia
+Guine
+Guadelupe
+Guine Equatorial
+Grecia
+Georgia do Sul e Ilhas
+Guatemala
+Guam
+Guine-Bissau
+Guiana
+Hong Kong
+Honduras
+Croacia
+Haiti
+Hungria
+Indonesia
+Irlanda
+Israel
+Ilha de Man
+India
+Iraque
+Ira
+Islandia
+Italia
+Jersey
+Jamaica
+Jordania
+Japao
+Quenia
+Quirguistao
+Camboja
+Kiribati
+Comoros
+Sao Cristovao e Nevis
+Coreia do Norte
+Coreia do Sul
+Kuwait
+Ilhas Caiman
+Cazaquistao
+Laos
+Libano
+Santa Lucia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesoto
+Lituania
+Luxemburgo
+Letonia
+Libia
+Marrocos
+Monaco
+Moldova
+Montenegro
+Saint Martin
+Madagascar
+Ilhas Marshall
+Macedonia
+Mali
+Birmania
+Mongolia
+Macao
+Marianas do Norte
+Martinica
+Mauritania
+Montserrat
+Malta
+Maldivas
+Malawi
+Mxico
+Malasia
+Mocambique
+Namibia
+Nova Caledonia
+Niger
+Norfolk
+Nigeria
+Nicaragua
+Holanda
+Noruega
+Nepal
+Nauru
+Niue
+Nova Zelandia
+Oma
+Panama
+Peru
+Polinesia Francesa
+Papua Nova Guine
+Filipinas
+Paquistao
+Polonia
+Ilhas Pitcairn
+Porto Rico
+Faixa de Gaza
+Cisjordania
+Portugal
+Palau
+Paraguai
+Qatar
+Romenia
+Servia
+Russia
+Ruanda
+Arabia Saudita
+lhas Salomao
+Sudao
+Suecia
+Cingapura
+Eslovenia
+Eslovaquia
+Serra Leoa
+San Marino
+Senegal
+Somalia
+Suriname
+Sudao do Sul
+Sao Tome e Principe
+El Salvador
+Sao Martinho
+Siria
+Suazilandia
+Ilhas Turks e Caicos
+Togo
+Tailandia
+Tadjiquistao
+Toquelau
+Timor-Leste
+Turcomenistao
+Tunisia
+Tonga
+Turquia
+Trinidad
+Tuvalu
+Taiwan
+Tanzania
+Ucrania
+Uganda
+Estados Unidos
+Uruguai
+Uzbequistao
+Venezuela
+Vietna
+Vanuatu
+Samoa
+Kosovo
+Africa do Sul
+Zambia
+Zimbabue

@@ -1,0 +1,95 @@
+Acre
+Alagoas
+Amapa
+Amazonas
+Bahia
+Ceara
+Distrito Federal
+Espirito Santo
+Goias
+Maranhao
+Mato Grosso
+Mato Grosso do Sul
+Minas Gerais
+Para
+Paraiba
+Parana
+Pernambuco
+Piaui
+Rio de Janeiro
+Rio Grande do Norte
+Rio Grande do Sul
+Rondonia
+Roraima
+Santa Catarina
+Sao Paulo
+Sergipe
+Tocantins
+California
+Texas
+Nova Iorque
+Florida
+Illinois 
+Pensilvania
+Ohio
+Michigan
+Georgia
+Carolina do Norte
+Nova Jersei
+Virginia
+Washington
+Massachusetts
+Indiana
+Arizona
+Tennessee
+Missouri
+Maryland
+Wisconsin
+Minnesota
+Colorado
+Alabama
+Carolina do Sul
+Luisiana
+Kentucky
+Oregon
+Oklahoma 
+Connecticut
+Iowa
+Mississippi
+Arkansas
+Kansas
+Utah
+Nevada
+Novo Mexico
+Virginia Ocidental
+Nebraska
+Idaho
+Havai
+Maine
+Nova Hampshire
+Rhode Island
+Montana
+Delaware
+Dakota do Sul
+Alasca
+Dakota do Norte
+Vermont e Wyoming
+Columbia
+Lisboa
+Aveiro
+Porto
+Braga
+Beja
+Evora
+Santarem
+Leiria
+Coimbra
+Faro
+Viseu
+Viana do Castelo
+Vila Real
+Castelo Branco
+Guarda
+Setubal
+Bragança
+Portalegre
