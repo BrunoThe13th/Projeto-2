@@ -1,4 +1,4 @@
-# Projeto-2
+# datagenerator
 Anderson De Paula Andrade Medeiros (andersonandrade.30@gmail.com)
 Anna Alicia Milani (aliciamilani93@gmail.com)
 Bruno França do Prado (bruno_french@outlook.com)
