@@ -1,4 +1,8 @@
+# Foi validado em https://jsonlint.com/ (sem erros)
+# Foi validado em https://jsonformatter.curiousconcept.com/ (sem erros)
 # Função responsável por formatar a saída para json
+
+
 def format_json(people):
     json = '[\n'
     for n_person in range(len(people)):
@@ -14,6 +18,6 @@ def format_json(people):
             json += '\t}\n'
         else:
             json += '\t},\n'
-    json += ']'
+    json += ']\n'
 
     return json

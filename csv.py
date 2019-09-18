@@ -1,4 +1,7 @@
+# Foi validado em https://csvlint.com/online-validator (sem erros)
 # Função responsável por formatar a saída para csv
+
+
 def format_csv(people):
     csv = ''
     for person in people:

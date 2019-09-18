@@ -1,22 +1,27 @@
 import sys
+
 import generate_data
-import insert
 import csv
 import json
+import sql
+import html
 
-size = int(sys.argsqlv[1])
+size = int(sys.argv[1])
 type = sys.argv[2]
 
 people = generate_data.generator(size)
-insert_sql = insert.format_insert(people)
 json = json.format_json(people)
 csv = csv.format_csv(people)
+sql = sql.format_insert(people)
+html = html.format_html(people)
 
-if type == "-insert":
-    print(insert_sql)
-elif type == "-json":
-    print(json)
+if type == "-json":
+    print(json, end='')
 elif type == "-csv":
-    print(csv)
+    print(csv, end='')
+elif type == "-sql":
+    print(sql, end='')
+elif type == "-html":
+    print(html, end='')
 else:
     print("error")
