@@ -1,5 +1,5 @@
-## datagenerator
-# Contributors
+# datagenerator
+## Contributors
 
 Anderson De Paula Andrade Medeiros (andersonandrade.30@gmail.com)  
 Anna Alicia Milani (aliciamilani93@gmail.com)  
